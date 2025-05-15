@@ -43,8 +43,15 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "44d951ba-77d7-47df-af20-47dadeb47358"
+        "projectId": "03c1407e-a554-4b1b-85a8-179c2c8ee6a5"
       }
+    },
+    "owner": "unworthtyturtle",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/03c1407e-a554-4b1b-85a8-179c2c8ee6a5"
     }
   }
 }
